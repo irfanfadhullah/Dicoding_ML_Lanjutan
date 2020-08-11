@@ -1,2 +1,2 @@
 # Dicoding_ML_Lanjutan
-Untuk submission file, bisa izin dulu ke saya untuk dapatan password zip
+Untuk submission file, bisa izin dulu ke saya untuk dapatkan key password zip
