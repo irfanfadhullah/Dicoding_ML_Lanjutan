@@ -1,2 +1,2 @@
 # Dicoding_ML_Lanjutan
-Untuk submission file, bisa izin dulu ke saya untuk dapatkan key password zip
+This repository is the result of training and projects during the Belajar ML lanjutan course by Dicoding
